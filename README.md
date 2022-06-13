@@ -3,7 +3,7 @@
 - Use the provided mediaserver-collector.conf file.
 - Clone content of this repository into /etc/telegraf/telegraf.d/inputs
 - Restart Telegraf. 
-- Import the dashboard by ID 16423, select your own InfluxDB database after clicking "Import".
+- Import the dashboard by ID 16423 or by JSON model, select your own InfluxDB database after clicking "Import".
 - Enjoy!
 
 ### Description ###
